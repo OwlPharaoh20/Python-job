@@ -36,3 +36,14 @@ person2['city'] = 'Boston'
 
 print(person)
 print(person2)
+
+#get len
+print(len(person2))
+
+#list of dicts
+people = [
+    {'name': 'Martha', 'age': 30},
+    {'name': 'Kevin', 'age': 25}
+]
+
+print(people)
